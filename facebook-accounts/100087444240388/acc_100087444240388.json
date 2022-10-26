@@ -6,11 +6,24 @@
 	"id": "100087444240388",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Stella Rosa",
+	"screenname": "Carina Santiago",
 	"birthdate": "1993 April 18",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Brazil",
+	"isAvatarExists": true,
 	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701309246.481438,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100087444240388%22%3A%22SSVc8bsH%22%7D"
+		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1701307655.849233,
@@ -26,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667352848,
+			"expirationDate": 1667354110,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674523930.874426,
+			"expirationDate": 1674525239.745354,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0EfQ0cZUtTe4lEKBO.AWVZChGHFo5QHq9oqS7LT4983Xg.BjWIzG.T9.AAA.0.0.BjWI4b.AWU3jVX1pbE"
+			"value": "0EfQ0cZUtTe4lEKBO.AWX95VYoyxxJLSHytCLp9W0nCi0.BjWIzG.T9.AAA.0.0.BjWJM4.AWXfkfdH_FA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,8 +138,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666748026389%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666749308571%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.10.2022 01:50 RegistrarPerfil"
+	"lastEventDate": "26.10.2022 01:55 Farm0"
 }
