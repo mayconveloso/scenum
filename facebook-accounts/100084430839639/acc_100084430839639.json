@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "26.10.2022 18:49 Farm1-3_by_scenum",
+	"lastEventDate": "26.10.2022 18:50 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100084430839639",
 	"name": "",
-	"amountFriends": "101",
+	"amountFriends": "141",
 	"screenname": "Adriana Pires Marques",
 	"birthdate": "2000 January 9",
 	"country": "Paulo",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698286345.524098,
+			"expirationDate": 1698345776.314992,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,20 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698286345.5242,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A16375%3A%3AAcW74moWX29yoB1GgDQK3z4qGQhC9yqBumJzeVLNDg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1667355149,
+			"expirationDate": 1667360880,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -103,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667358211,
+			"expirationDate": 1667415034,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674529326.760815,
+			"expirationDate": 1674583149.258729,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100084430839639"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1698345776.31508,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A16375%3A%3AAcXcaXoFGhSWBdQaJwsotirsq8g-HUYr7KHC0NMSRQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674586156.107082,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QtggFamc1kjjR4Qm.AWX-iuwUB_bTNccDBcUJAijfOs4.BjWJeK.wi.AAA.0.0.BjWKMv.AWWg3x2B_B4"
+			"value": "00kufKA5Oi75t71hS.AWWjoHRGgPWep8aICzWhrDCowt0.BjWX-w.wi.AAA.0.0.BjWYEs.AWWSgfJ16h0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666753408941%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666810231682%2C%22v%22%3A1%7D"
 		}
 	]
 }
