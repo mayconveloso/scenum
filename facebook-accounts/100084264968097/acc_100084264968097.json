@@ -2,10 +2,10 @@
 	"sn": "facebook",
 	"id": "100084264968097",
 	"name": "",
-	"amountFriends": "122",
+	"amountFriends": "123",
 	"screenname": "Melissa Mendes Araujo",
 	"birthdate": "2000 July 29",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": true,
 	"cookie": [
 		{
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667493027,
+			"expirationDate": 1667588471,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698424094.747587,
+			"expirationDate": 1698519593.965246,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -100,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698424094.747611,
+			"expirationDate": 1698519593.965292,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -109,11 +109,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3ApxDQUmx1JmuXqg%3A2%3A1666888094%3A-1%3A3183"
+			"value": "23%3ApxDQUmx1JmuXqg%3A2%3A1666888094%3A-1%3A3183%3A%3AAcULJ1lkZuwmHGpZlOjER_fF_5eMm-ZwPp42JpYT2Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674664137.531957,
+			"expirationDate": 1674759597.564151,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07kdntXVouDh5hIvD.AWVwWfJb92lWkeJCYn47EbQdkS4.BjWq7O.-4.AAA.0.0.BjWrHK.AWUlMwAzhYA"
+			"value": "0WW67BgK8dOtpICSN.AWXwpNaaeFz9QAW_TIYTYaH2lw4.BjXCaq.-4.AAA.0.0.BjXCau.AWVZpDiO5Ic"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,9 +134,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666888233676%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1666983668959%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.10.2022 18:59 Farm1-3_by_scenum",
+	"lastEventDate": "28.10.2022 19:01 Farm1-3_by_scenum",
 	"status": 2
 }
