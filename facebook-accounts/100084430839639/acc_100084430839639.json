@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "31.10.2022 00:18 Farm3-8_by_scenum",
+	"lastEventDate": "31.10.2022 00:19 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100084430839639",
 	"name": "",
-	"amountFriends": "164",
+	"amountFriends": "167",
 	"screenname": "Adriana Pires Marques",
 	"birthdate": "2000 January 9",
 	"country": "Paulo",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698519450.853411,
+			"expirationDate": 1698711502.755926,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1667588329,
+			"expirationDate": 1667780383,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698519450.853476,
+			"expirationDate": 1698711502.755987,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A2693%3A%3AAcWhPlm1ngcadwSiTZvjyJVUZ7h33OjoLTqWieXxYlI"
+			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A2693%3A%3AAcU2NGEwhRAC7gkUNVdBa24Up4VbDP7Nav1OHlDDiyk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674759454.720808,
+			"expirationDate": 1674951506.644911,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qmlQPXeAnsDe2Z3G.AWVo7YT5sXe30qmeAfR4iy-6Ctc.BjXCYb.wi.AAA.0.0.BjXCYf.AWUZAc9r4pY"
+			"value": "0vLe2MpH8UaMiOK07.AWULGT5F28UFRKGdKVAHvJcNmLg.BjXxRP.wi.AAA.0.0.BjXxRT.AWXaS-Ls5PQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100068130984285%22%7D%5D%2C%22utc3%22%3A1666983527518%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100011547364551%22%7D%2C%7B%22i%22%3A%22u.100068130984285%22%7D%2C%7B%22i%22%3A%22u.100007213142733%22%7D%2C%7B%22i%22%3A%22u.100025891171518%22%7D%5D%2C%22utc3%22%3A1667175580667%2C%22lm3%22%3A%22u.100009365310116%22%2C%22v%22%3A1%7D"
 		}
 	]
 }
