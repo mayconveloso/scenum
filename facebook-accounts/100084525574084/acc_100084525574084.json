@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "03.11.2022 17:47 Farm1-3_by_scenum",
+	"lastEventDate": "03.11.2022 17:49 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100084525574084",
 	"name": "",
-	"amountFriends": "293",
+	"amountFriends": "296",
 	"screenname": "Giovana Oliveira Freitas",
 	"birthdate": "2000 August 9",
 	"country": "Buritama",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698976577.117674,
+			"expirationDate": 1699033647.441258,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668045375,
+			"expirationDate": 1668049762,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -90,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698976577.117722,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A1953%3A%3AAcVUKBN_kPHvgI6ZK_C0nP6A3FvULGZ8HfGqvR3VXA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668046255,
+			"expirationDate": 1668102530,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,11 +99,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1320x775"
+			"value": "1320x769"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675217363.429765,
+			"expirationDate": 1699033647.441327,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A1953%3A%3AAcVXXfE1w6XbmOMpVmyTAwGKyxBcYBogykUWipPkZA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675273652.015629,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gcCMqDShBN98LVJL.AWVLYvfNrU_UX2pIwqjwYvx7oS8.BjYx_C.d2.AAA.0.0.BjYyLU.AWXv9FBt7uI"
+			"value": "0tabs6d1ZkGrw5Wqn.AWVUeFZvhVeluSPVpbS09e5qJaQ.BjY_6w.d2.AAA.0.0.BjY_60.AWVC4-zfNdM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667441452026%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.108983790849257%22%7D%5D%2C%22utc3%22%3A1667497740244%2C%22v%22%3A1%7D"
 		}
 	]
 }
