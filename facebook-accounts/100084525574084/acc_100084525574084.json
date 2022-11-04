@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "04.11.2022 21:27 Farm1-3_by_scenum",
+	"lastEventDate": "04.11.2022 21:28 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100084525574084",
 	"name": "",
-	"amountFriends": "296",
+	"amountFriends": "298",
 	"screenname": "Giovana Oliveira Freitas",
 	"birthdate": "2000 August 9",
 	"country": "Buritama",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699033647.441258,
+			"expirationDate": 1699132325.687778,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668102530,
+			"expirationDate": 1668202099,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699033647.441327,
+			"expirationDate": 1699132325.687845,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A1953%3A%3AAcVXXfE1w6XbmOMpVmyTAwGKyxBcYBogykUWipPkZA"
+			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A5524%3A%3AAcVA9prhcoW7bKRlKupLe-OlZB3hC_-KiZCre8d17w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675273652.015629,
+			"expirationDate": 1675373230.423696,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tabs6d1ZkGrw5Wqn.AWVUeFZvhVeluSPVpbS09e5qJaQ.BjY_6w.d2.AAA.0.0.BjY_60.AWVC4-zfNdM"
+			"value": "015eha283qERNArpU.AWUUXO5y4eItJTAFgSEGjisk7tE.BjZYAm.d2.AAA.0.0.BjZYOv.AWUw0ugJ4dE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.108983790849257%22%7D%5D%2C%22utc3%22%3A1667497740244%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100082460982490%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.108983790849257%22%7D%5D%2C%22utc3%22%3A1667597296837%2C%22v%22%3A1%7D"
 		}
 	]
 }
