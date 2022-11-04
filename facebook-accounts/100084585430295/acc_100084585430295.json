@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "04.11.2022 21:24 Farm1-3_by_scenum",
+	"lastEventDate": "04.11.2022 21:25 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100084585430295",
 	"name": "",
-	"amountFriends": "134",
+	"amountFriends": "137",
 	"screenname": "Viviane Aparecida Guedes",
 	"birthdate": "1995 August 14",
 	"country": "Brazil",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699032645.364951,
+			"expirationDate": 1699132335.725317,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668102323,
+			"expirationDate": 1668201940,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699032645.365561,
+			"expirationDate": 1675274499.620408,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100084585430295"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699132335.725402,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AvrRZTjODCFn5Kg%3A2%3A1667276245%3A-1%3A8311%3A%3AAcUKijh63M7W-LsX0QqqZghheSzZP5aQY7FeoPpImQ"
+			"value": "30%3AvrRZTjODCFn5Kg%3A2%3A1667276245%3A-1%3A8311%3A%3AAcXeIPefdsaUmophZ4xgJ1newgln75NRvZ4RHXrN3w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675273440.868754,
+			"expirationDate": 1675373064.654419,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NWHYGfetwiQQbzbs.AWWUOdwc1wxE8a2Ul6F7ExCIYWI.BjY_rG.XR.AAA.0.0.BjY_3h.AWUMYat9xGM"
+			"value": "0CgR47bkZukeg9NI9.AWUV9tMBs07sffXTQPsJGCLnTj8.BjZYAw.XR.AAA.0.0.BjZYMJ.AWXNdDG61m0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100079975587532%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100051596599774%22%7D%2C%7B%22i%22%3A%22u.227025040701511%22%7D%2C%7B%22i%22%3A%22u.201093140306750%22%7D%5D%2C%22utc3%22%3A1667497521390%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100072374333476%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100051596599774%22%7D%2C%7B%22i%22%3A%22u.227025040701511%22%7D%2C%7B%22i%22%3A%22u.201093140306750%22%7D%2C%7B%22i%22%3A%22u.100079975587532%22%7D%5D%2C%22utc3%22%3A1667597146606%2C%22v%22%3A1%7D"
 		}
 	]
 }
