@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "04.11.2022 21:29 Farm1-3_by_scenum",
+	"lastEventDate": "04.11.2022 21:31 Farm1-3_by_scenum",
 	"status": 2,
 	"id": "100084133076043",
 	"name": "",
-	"amountFriends": "41",
+	"amountFriends": "45",
 	"screenname": "Sabrina Pimenta Silva",
 	"birthdate": "1997 September 1",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699032619.391013,
+			"expirationDate": 1699132311.986011,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699032619.39106,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "39%3A_4WF5OHGG5XPpg%3A2%3A1667183809%3A-1%3A-1%3A%3AAcUorFKCXk1S_CDLcv0wY4rdtqBWi16M56ZEQZW3Ryw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668102213,
+			"expirationDate": 1668202260,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675273344.453131,
+			"expirationDate": 1699132311.986081,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "39%3A_4WF5OHGG5XPpg%3A2%3A1667183809%3A-1%3A2522%3A%3AAcXeLBeaNafclQrQluaymzXS-kHaFjCnwzCCn4XhgnY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675373386.377085,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cuovLUipnr1nAn1n.AWXpUl6RFs4yP_fP32ePPqd-zxM.BjY_qs.0u.AAA.0.0.BjY_2B.AWUXfVqSOv0"
+			"value": "0vaVSQAEK10aN9lAN.AWUWcYb9QG0HszajitTEjeSLQ2E.BjZYAY.0u.AAA.0.0.BjZYRL.AWVVHAlYCHs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100049471331205%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667497420420%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667597458977%2C%22v%22%3A1%7D"
 		}
 	]
 }
