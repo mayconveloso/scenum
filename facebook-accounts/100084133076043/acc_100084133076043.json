@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "07.11.2022 18:18 Farm3-8_by_scenum",
+	"lastEventDate": "07.11.2022 18:20 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100084133076043",
 	"name": "",
-	"amountFriends": "45",
+	"amountFriends": "46",
 	"screenname": "Sabrina Pimenta Silva",
 	"birthdate": "1997 September 1",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699132311.986011,
+			"expirationDate": 1699380677.331272,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668202260,
+			"expirationDate": 1668450009,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699132311.986081,
+			"expirationDate": 1699380677.331524,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3A_4WF5OHGG5XPpg%3A2%3A1667183809%3A-1%3A2522%3A%3AAcXeLBeaNafclQrQluaymzXS-kHaFjCnwzCCn4XhgnY"
+			"value": "39%3A_4WF5OHGG5XPpg%3A2%3A1667183809%3A-1%3A2522%3A%3AAcW0gV1bS4OcCbxZ5gB-KLueKibwKHSVuyG4NR2kTls"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675373386.377085,
+			"expirationDate": 1675621127.652629,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vaVSQAEK10aN9lAN.AWUWcYb9QG0HszajitTEjeSLQ2E.BjZYAY.0u.AAA.0.0.BjZYRL.AWVVHAlYCHs"
+			"value": "0AxC8nO8ThfXFaJiL.AWUJ4QUElv3nbAEMBDUOGFDOu8E.BjaUpG.0u.AAA.0.0.BjaUwI.AWUAmffITDI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667597458977%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667845207515%2C%22v%22%3A1%7D"
 		}
 	]
 }
