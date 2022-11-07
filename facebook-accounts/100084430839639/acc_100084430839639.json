@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "07.11.2022 18:18 Farm3-8_by_scenum",
+	"lastEventDate": "07.11.2022 18:20 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100084430839639",
 	"name": "",
-	"amountFriends": "208",
+	"amountFriends": "218",
 	"screenname": "Adriana Pires Marques",
 	"birthdate": "2000 January 9",
 	"country": "Paulo",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699046675.932283,
+			"expirationDate": 1699381142.942286,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668201778,
+			"expirationDate": 1668450020,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699046675.933363,
+			"expirationDate": 1699381142.942359,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A4921%3A%3AAcXxqY0aoSXKxyJ9g-Kcp0MlENikflhDLYLTz3aOP5U"
+			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A4921%3A%3AAcXRVgu1ZWm19PicmQPKgLv8nKHlOZ7OJ6PScIchOhg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675372914.672503,
+			"expirationDate": 1675621141.942379,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DGGxM0wAxspBGbBI.AWWtxAUXQ2zP9RRHDYMspx6hA7Y.BjZDGU.wi.AAA.0.0.BjZYJz.AWWN9M10J8k"
+			"value": "0kO0hZUoS0nZAQ5yi.AWXkw5gD3ItTIdsh9Cz2YKzACs4.BjaUwX.wi.AAA.0.0.BjaUwX.AWUXgSm705A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100076845293576%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011547364551%22%7D%2C%7B%22i%22%3A%22u.100068130984285%22%7D%2C%7B%22i%22%3A%22u.100007213142733%22%7D%2C%7B%22i%22%3A%22u.100025891171518%22%7D%2C%7B%22i%22%3A%22u.100009365310116%22%7D%2C%7B%22i%22%3A%22u.100004003545265%22%7D%2C%7B%22i%22%3A%22u.100084372936120%22%7D%5D%2C%22utc3%22%3A1667596979890%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100076845293576%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011547364551%22%7D%2C%7B%22i%22%3A%22u.100068130984285%22%7D%2C%7B%22i%22%3A%22u.100007213142733%22%7D%2C%7B%22i%22%3A%22u.100025891171518%22%7D%2C%7B%22i%22%3A%22u.100009365310116%22%7D%2C%7B%22i%22%3A%22u.100004003545265%22%7D%2C%7B%22i%22%3A%22u.100084372936120%22%7D%5D%2C%22utc3%22%3A1667845214358%2C%22v%22%3A1%7D"
 		}
 	]
 }
