@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100084264968097",
 	"name": "",
-	"amountFriends": "135",
+	"amountFriends": "139",
 	"screenname": "Melissa Mendes Araujo",
 	"birthdate": "2000 July 29",
 	"country": "Brazil",
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668202370,
+			"expirationDate": 1668450114,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699133491.220104,
+			"expirationDate": 1699380716.006825,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -113,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699133491.220161,
+			"expirationDate": 1699380716.006884,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -122,11 +122,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3AH4uOVsIJMP5EFQ%3A2%3A1667403092%3A-1%3A3183%3A%3AAcWssKWiJ74Kcq0O0NF5HvDp9pHb3dA-YG6RqYtiJQ"
+			"value": "23%3AH4uOVsIJMP5EFQ%3A2%3A1667403092%3A-1%3A3183%3A%3AAcVllO4qskIKlMlja4Lh8FMEBnw87Z0J6ILXglRFyA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675373493.070595,
+			"expirationDate": 1675621247.98521,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0pmgLLF0eyjbOMpzP.AWXOEDa8y0f9jvaZvHZ4A4zGTvA.BjZYS0.-4.AAA.0.0.BjZYS1.AWW0BWktVHc"
+			"value": "0q5TuSFPfp9kpqvBm.AWUUIW71Ah59TYNrj6YzhTWrUaQ.BjaUps.-4.AAA.0.0.BjaUyA.AWXw6YxXmL0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100078222997281%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100085680107153%22%7D%5D%2C%22utc3%22%3A1667597567726%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100067117994212%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100085680107153%22%7D%2C%7B%22i%22%3A%22u.100078222997281%22%7D%2C%7B%22i%22%3A%22u.100083821291948%22%7D%5D%2C%22utc3%22%3A1667845320927%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "07.11.2022 18:20 Farm3-8_by_scenum",
+	"lastEventDate": "07.11.2022 18:22 Farm3-8_by_scenum",
 	"status": 2
 }
