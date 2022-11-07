@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "07.11.2022 18:19 Farm3-8_by_scenum",
+	"lastEventDate": "07.11.2022 18:20 Farm3-8_by_scenum",
 	"status": 2,
 	"id": "100086996372024",
 	"name": "",
-	"amountFriends": "146",
+	"amountFriends": "160",
 	"screenname": "Mariana Carvalho Silva",
 	"birthdate": "1994 June 5",
 	"country": "Brazil",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699133031.522987,
+			"expirationDate": 1699381163.41213,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668201899,
+			"expirationDate": 1668450035,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699133031.523062,
+			"expirationDate": 1699381163.412216,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "33%3AFfraQVmDOP8zsg%3A2%3A1665764218%3A-1%3A5538%3A%3AAcWLbsJ3O78YgMgopIiP0_xakD37-U4Xo38Zox0z2Ek"
+			"value": "33%3AFfraQVmDOP8zsg%3A2%3A1665764218%3A-1%3A5538%3A%3AAcXoox4wQbk_Z-dlCubryIGy8QbdtNfj_CbUTJgM0nI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675373032.694669,
+			"expirationDate": 1675621162.412239,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qoODljgXIPt2E3qJ.AWXG4CoGUR7Q9AYm-MTL3ydBYfM.BjZYLo.kU.AAA.0.0.BjZYLp.AWXeysoWT8Y"
+			"value": "0LOuX4OVSJcLIQelg.AWUCOBQbDekdtldIXU6D7dsCig0.BjaUws.kU.AAA.0.0.BjaUws.AWXLDIqTmX8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100005188115548%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100082911802621%22%7D%2C%7B%22i%22%3A%22u.100041432204826%22%7D%2C%7B%22i%22%3A%22u.100082116923383%22%7D%2C%7B%22i%22%3A%22u.100082006248473%22%7D%2C%7B%22i%22%3A%22u.100086213111489%22%7D%2C%7B%22i%22%3A%22u.100084967032911%22%7D%5D%2C%22utc3%22%3A1667597107062%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100082911802621%22%7D%2C%7B%22i%22%3A%22u.100041432204826%22%7D%2C%7B%22i%22%3A%22u.100082116923383%22%7D%2C%7B%22i%22%3A%22u.100082006248473%22%7D%2C%7B%22i%22%3A%22u.100086213111489%22%7D%2C%7B%22i%22%3A%22u.100084967032911%22%7D%2C%7B%22i%22%3A%22u.100005188115548%22%7D%2C%7B%22i%22%3A%22u.281164141954256%22%7D%2C%7B%22i%22%3A%22u.100084572632461%22%7D%5D%2C%22utc3%22%3A1667845242285%2C%22v%22%3A1%7D"
 		}
 	]
 }
