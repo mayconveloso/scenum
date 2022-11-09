@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100084264968097",
 	"name": "",
-	"amountFriends": "150",
+	"amountFriends": "152",
 	"screenname": "Melissa Mendes Araujo",
 	"birthdate": "2000 July 29",
 	"country": "Brazil",
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668555630,
+			"expirationDate": 1668629939,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,33 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668003880,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668007890.603706,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "en_US"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1699486343.821113,
+			"expirationDate": 1699560405.982035,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -113,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699486343.821192,
+			"expirationDate": 1699560405.982438,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -122,11 +96,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3AH4uOVsIJMP5EFQ%3A2%3A1667403092%3A-1%3A3183%3A%3AAcW1cUzvcxXEo9AngXiLD46BX8t7Ir3rePdHaZZD-Q"
+			"value": "23%3AH4uOVsIJMP5EFQ%3A2%3A1667403092%3A-1%3A3183%3A%3AAcVEMTdeHw91dIBCM4Bw3gAd9OMDGBKHVuqwG5W6DeY"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675726726.315429,
+			"expirationDate": 1668629859,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675801061.419797,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0brL7MlXv9ynAac4E.AWVqCnt6DnKXxrIBjDbLj-HYZ4Q.BjaucI.-4.AAA.0.0.BjauiH.AWUiWeZtrCA"
+			"value": "0e4Zy5GMbpSqT9khs.AWUgYODPPYZ5DTR_Ky7jTiuy2SI.BjbAhW.-4.AAA.0.0.BjbArm.AWXYUNAPOmw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +134,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100067117994212%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100085680107153%22%7D%2C%7B%22i%22%3A%22u.100078222997281%22%7D%2C%7B%22i%22%3A%22u.100083821291948%22%7D%5D%2C%22utc3%22%3A1667950828172%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100067117994212%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100085680107153%22%7D%2C%7B%22i%22%3A%22u.100078222997281%22%7D%2C%7B%22i%22%3A%22u.100083821291948%22%7D%5D%2C%22utc3%22%3A1668025136441%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.11.2022 20:17 Farm8-10_by_scenum",
+	"lastEventDate": "09.11.2022 20:19 Farm8-10_by_scenum",
 	"status": 2
 }
