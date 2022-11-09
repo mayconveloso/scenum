@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "09.11.2022 20:12 Farm8-10_by_scenum",
+	"lastEventDate": "09.11.2022 20:14 Farm8-10_by_scenum",
 	"status": 2,
 	"id": "100084585430295",
 	"name": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699486315.352836,
+			"expirationDate": 1699560781.59231,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668556106,
+			"expirationDate": 1668629653,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699486315.352953,
+			"expirationDate": 1699560781.592393,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AvrRZTjODCFn5Kg%3A2%3A1667276245%3A-1%3A8311%3A%3AAcW-fDMdspqSujrBtc-Qf8EVRDSkp7K3IWHux0krKco"
+			"value": "30%3AvrRZTjODCFn5Kg%3A2%3A1667276245%3A-1%3A8311%3A%3AAcU_pa6Oxg49UcfawXvNkuhEi1Le2gZlKagk604wHH8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675727228.204851,
+			"expirationDate": 1675800785.031011,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Z6IRFacOOL85g7aP.AWV3uifEFCj_C8Y18DcYUxX0ms4.Bjaubq.XR.AAA.0.0.Bjaup9.AWV0-brNqkA"
+			"value": "0wtt7RBJqh1oYOrno.AWXpmnKG26HGqmBprkc8u6hyrto.BjbAnO.XR.AAA.0.0.BjbAnS.AWX01lv3pLI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087621333479%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.405583946133906%22%7D%2C%7B%22i%22%3A%22u.100051596599774%22%7D%2C%7B%22i%22%3A%22u.227025040701511%22%7D%2C%7B%22i%22%3A%22u.201093140306750%22%7D%2C%7B%22i%22%3A%22u.100079975587532%22%7D%2C%7B%22i%22%3A%22u.100078934246692%22%7D%2C%7B%22i%22%3A%22u.100026927431298%22%7D%2C%7B%22i%22%3A%22u.100072374333476%22%7D%2C%7B%22i%22%3A%22u.100084000006910%22%7D%5D%2C%22utc3%22%3A1667951304082%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100082682193484%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.405583946133906%22%7D%2C%7B%22i%22%3A%22u.100051596599774%22%7D%2C%7B%22i%22%3A%22u.227025040701511%22%7D%2C%7B%22i%22%3A%22u.201093140306750%22%7D%2C%7B%22i%22%3A%22u.100079975587532%22%7D%2C%7B%22i%22%3A%22u.100078934246692%22%7D%2C%7B%22i%22%3A%22u.100026927431298%22%7D%2C%7B%22i%22%3A%22u.100072374333476%22%7D%2C%7B%22i%22%3A%22u.100084000006910%22%7D%2C%7B%22i%22%3A%22u.100087621333479%22%7D%5D%2C%22utc3%22%3A1668024860297%2C%22v%22%3A1%7D"
 		}
 	]
 }
