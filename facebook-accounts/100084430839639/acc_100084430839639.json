@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "09.11.2022 20:14 Farm8-10_by_scenum",
+	"lastEventDate": "09.11.2022 20:16 Farm8-10_by_scenum",
 	"status": 2,
 	"id": "100084430839639",
 	"name": "",
-	"amountFriends": "221",
+	"amountFriends": "222",
 	"screenname": "Adriana Pires Marques",
 	"birthdate": "2000 January 9",
 	"country": "Paulo",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699384759.359601,
+			"expirationDate": 1699560891.560149,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668002271,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668555551,
+			"expirationDate": 1668629787,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699384759.359651,
+			"expirationDate": 1668609275,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699560891.560233,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A4921%3A%3AAcUwNjf2TqmFDwu8I0ld1ZIZIP98wZYLgbhJpaajFio"
+			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A4921%3A%3AAcW4m7rJON68ECq1K82uLCav6xgtOz4vEqaIO68iGtU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675726672.046794,
+			"expirationDate": 1675800890.560251,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0r1s5QrVGEtGdInDh.AWUojyyUJAuFvYjBwgNjc0sn_iE.BjaVo3.wi.AAA.0.0.BjauhQ.AWWG7ooFRpU"
+			"value": "0Ku5KuxKnKWiDUIbj.AWWXpU9o1bGx7pUjapzzBx6MlKU.BjbAo8.wi.AAA.0.0.BjbAo8.AWWTEirwyiU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100076845293576%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011547364551%22%7D%2C%7B%22i%22%3A%22u.100068130984285%22%7D%2C%7B%22i%22%3A%22u.100007213142733%22%7D%2C%7B%22i%22%3A%22u.100025891171518%22%7D%2C%7B%22i%22%3A%22u.100009365310116%22%7D%2C%7B%22i%22%3A%22u.100004003545265%22%7D%2C%7B%22i%22%3A%22u.100084372936120%22%7D%5D%2C%22utc3%22%3A1667950748546%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100076845293576%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011547364551%22%7D%2C%7B%22i%22%3A%22u.100068130984285%22%7D%2C%7B%22i%22%3A%22u.100007213142733%22%7D%2C%7B%22i%22%3A%22u.100025891171518%22%7D%2C%7B%22i%22%3A%22u.100009365310116%22%7D%2C%7B%22i%22%3A%22u.100004003545265%22%7D%2C%7B%22i%22%3A%22u.100084372936120%22%7D%5D%2C%22utc3%22%3A1668024982127%2C%22v%22%3A1%7D"
 		}
 	]
 }
