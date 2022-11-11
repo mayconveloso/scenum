@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "11.11.2022 19:03 Farm8-10_by_scenum",
+	"lastEventDate": "11.11.2022 19:05 Farm8-10_by_scenum",
 	"status": 2,
 	"id": "100084133076043",
 	"name": "",
-	"amountFriends": "49",
+	"amountFriends": "50",
 	"screenname": "Sabrina Pimenta Silva",
 	"birthdate": "1997 September 1",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699650172.160202,
+			"expirationDate": 1699728810.233513,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668719823,
+			"expirationDate": 1668798355,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699650172.160687,
+			"expirationDate": 1699728810.233567,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3A_4WF5OHGG5XPpg%3A2%3A1667183809%3A-1%3A2522%3A%3AAcWa5f3DypJvIY6rVHlCCVbl4lWlKN5KDWcYHyga4tY"
+			"value": "39%3A_4WF5OHGG5XPpg%3A2%3A1667183809%3A-1%3A2522%3A%3AAcUs5pv1FqbRz67M0mVFO7Of-nqJ5jUi-uPrUXCNWWM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675890912.19942,
+			"expirationDate": 1675969411.530516,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mgIVT38G6rvNgey4.AWXPkFRBGVFHHbzizaAixJyAA3Q.BjbWb9.0u.AAA.0.0.BjbWnh.AWVsNv5QEyo"
+			"value": "0snIo8Tx3P6mZXt7F.AWXfQo-wXIdgL6MjfidhwWuXKWo.Bjbpor.0u.AAA.0.0.BjbpyE.AWUgtOFO4Ns"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100009423416704%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100028991423525%22%7D%2C%7B%22i%22%3A%22u.100005277729885%22%7D%2C%7B%22i%22%3A%22u.100002782448164%22%7D%5D%2C%22utc3%22%3A1668115019824%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100087473415613%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.662617580454321%22%7D%2C%7B%22i%22%3A%22u.721893134537017%22%7D%2C%7B%22i%22%3A%22u.100028991423525%22%7D%2C%7B%22i%22%3A%22u.100005277729885%22%7D%2C%7B%22i%22%3A%22u.100002782448164%22%7D%2C%7B%22i%22%3A%22u.100009423416704%22%7D%5D%2C%22utc3%22%3A1668193550079%2C%22v%22%3A1%7D"
 		}
 	]
 }
