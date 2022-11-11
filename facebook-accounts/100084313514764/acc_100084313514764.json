@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "11.11.2022 19:02 Farm8-10_by_scenum",
+	"lastEventDate": "11.11.2022 19:03 Farm8-10_by_scenum",
 	"status": 2,
 	"id": "100084313514764",
 	"name": "",
-	"amountFriends": "145",
+	"amountFriends": "150",
 	"screenname": "Carla Soares Granero",
 	"birthdate": "2001 July 6",
 	"country": "Brazil",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699650118.481248,
+			"expirationDate": 1699728772.942273,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668719837,
+			"expirationDate": 1668798222,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699650118.48131,
+			"expirationDate": 1699728772.942312,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "48%3AGEIU8_kJ9aDe6Q%3A2%3A1660136428%3A-1%3A3317%3A%3AAcU1bzriJUzZ-OHgIp3mQ5UkpWMfDW4il9GVFNkIV78"
+			"value": "48%3AGEIU8_kJ9aDe6Q%3A2%3A1660136428%3A-1%3A3317%3A%3AAcXGansZfHLUi38JDnNJpcO4xOcBzV_Gf4b94RJ7cKI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675890942.408996,
+			"expirationDate": 1675969340.721665,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0T1LbmG95fUndf5wp.AWV_JZBVUz0176n0GTzq6qJbzfU.BjbWbH.E8.AAA.0.0.BjbWn_.AWXST2aVsOM"
+			"value": "0r6yUDLuzcYlDsLZz.AWVe8r50NpRXyfJ0vQhVKdkTHoc.BjbpoF.E8.AAA.0.0.Bjbpw9.AWUd69PP7Pk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.474953466398607%22%7D%2C%7B%22i%22%3A%22u.405583946133906%22%7D%2C%7B%22i%22%3A%22u.281164141954256%22%7D%2C%7B%22i%22%3A%22u.100087220419816%22%7D%5D%2C%22utc3%22%3A1668114986708%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100087844710509%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.474953466398607%22%7D%2C%7B%22i%22%3A%22u.405583946133906%22%7D%2C%7B%22i%22%3A%22u.281164141954256%22%7D%2C%7B%22i%22%3A%22u.100087220419816%22%7D%5D%2C%22utc3%22%3A1668193374364%2C%22v%22%3A1%7D"
 		}
 	]
 }
