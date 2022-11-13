@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "13.11.2022 01:46 Farm10-14_by_scenum",
+	"lastEventDate": "13.11.2022 01:48 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100084322222096",
 	"name": "",
-	"amountFriends": "148",
+	"amountFriends": "158",
 	"screenname": "Paula Fersoza Silva",
 	"birthdate": "1997 October 28",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699728815.737574,
+			"expirationDate": 1699839421.590047,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668798198,
+			"expirationDate": 1668908889,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699728815.737626,
+			"expirationDate": 1699839421.590153,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "40%3A1vKn3kTUQX-eIg%3A2%3A1667267457%3A-1%3A5538%3A%3AAcUzL-bocS-sq2G4snpMehZi46Nup2jVt-_y-0_WYfs"
+			"value": "40%3A1vKn3kTUQX-eIg%3A2%3A1667267457%3A-1%3A5538%3A%3AAcWoiTPo-ISgdE9HJD1CIdF3faydLc5FeXHybuMQpuA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675969321.474356,
+			"expirationDate": 1676080007.626369,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0RIOJjRoAbZpfhXaf.AWVST849j3AbatGi8CElFyChMdU.Bjbpow.iX.AAA.0.0.Bjbpwq.AWVB_Mlc0f0"
+			"value": "0v6vahQyq3rGNKfb4.AWXjp8UOxI6Dl83QkoZCCw_Z9IM.BjcEo-.iX.AAA.0.0.BjcEyI.AWXzhm-2F5o"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087188503467%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.297099340377291%22%7D%2C%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.100052599668511%22%7D%2C%7B%22i%22%3A%22u.100064262062201%22%7D%2C%7B%22i%22%3A%22u.100082986098396%22%7D%2C%7B%22i%22%3A%22u.100079794413861%22%7D%5D%2C%22utc3%22%3A1668193387928%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100087188503467%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.297099340377291%22%7D%2C%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.100052599668511%22%7D%2C%7B%22i%22%3A%22u.100064262062201%22%7D%2C%7B%22i%22%3A%22u.100082986098396%22%7D%2C%7B%22i%22%3A%22u.100079794413861%22%7D%5D%2C%22utc3%22%3A1668304086640%2C%22v%22%3A1%7D"
 		}
 	]
 }
