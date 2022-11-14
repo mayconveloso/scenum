@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "14.11.2022 18:32 Farm10-14_by_scenum",
+	"lastEventDate": "14.11.2022 18:34 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100084525574084",
 	"name": "",
-	"amountFriends": "344",
+	"amountFriends": "349",
 	"screenname": "Giovana Oliveira Freitas",
 	"birthdate": "2000 August 9",
 	"country": "Buritama",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699839375.814932,
+			"expirationDate": 1699985954.675413,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668908991,
+			"expirationDate": 1669055672,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699839375.814981,
+			"expirationDate": 1699985954.675816,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A5567%3A%3AAcWGT6RaIHAjMHx0F4tOO7lWcz6FdlawqiSPdRYphw4"
+			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A5567%3A%3AAcU3mV1bzbFVcOQ9tmMOPoagtzdJTDdEWg9Ku7TQHAs"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676080105.220198,
+			"expirationDate": 1676226792.532986,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JMPN7mgscrYWmcQ8.AWUXhHI7CHg74vUrC9wawluBCOs.BjcEoQ.d2.AAA.0.0.BjcEzq.AWV8EVaxgjE"
+			"value": "0auVu7akQPci6NkMP.AWU6JA98BtXhoZQb1cRZ7gUPl1w.Bjcoaj.d2.AAA.0.0.Bjconp.AWU9MA9Hyrg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.108983790849257%22%7D%2C%7B%22i%22%3A%22u.100008912115451%22%7D%2C%7B%22i%22%3A%22u.100082460982490%22%7D%2C%7B%22i%22%3A%22u.100041288470812%22%7D%2C%7B%22i%22%3A%22u.100082538061561%22%7D%2C%7B%22i%22%3A%22u.507308936003191%22%7D%2C%7B%22i%22%3A%22u.100076404783196%22%7D%5D%2C%22utc3%22%3A1668304190587%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100063646788659%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100075472104850%22%7D%2C%7B%22i%22%3A%22u.108983790849257%22%7D%2C%7B%22i%22%3A%22u.100008912115451%22%7D%2C%7B%22i%22%3A%22u.100082460982490%22%7D%2C%7B%22i%22%3A%22u.100041288470812%22%7D%2C%7B%22i%22%3A%22u.100082538061561%22%7D%2C%7B%22i%22%3A%22u.507308936003191%22%7D%2C%7B%22i%22%3A%22u.100076404783196%22%7D%2C%7B%22i%22%3A%22u.100085175830869%22%7D%5D%2C%22utc3%22%3A1668450875662%2C%22v%22%3A1%7D"
 		}
 	]
 }
