@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "16.11.2022 19:41 Farm10-14_by_scenum",
+	"lastEventDate": "16.11.2022 19:42 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100086996372024",
 	"name": "",
-	"amountFriends": "207",
+	"amountFriends": "216",
 	"screenname": "Mariana Carvalho Silva",
 	"birthdate": "1994 June 5",
 	"country": "Brazil",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699986860.784039,
+			"expirationDate": 1700163673.227082,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669055739,
+			"expirationDate": 1669232553,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668615525,
+			"expirationDate": 1669232474,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699986860.784273,
+			"expirationDate": 1700163673.227167,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -138,11 +138,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "33%3AFfraQVmDOP8zsg%3A2%3A1665764218%3A-1%3A5538%3A%3AAcVwGmiVwMhZq2595zDLbNDN23dhBJcMo7fgW8EjRNU"
+			"value": "33%3AFfraQVmDOP8zsg%3A2%3A1665764218%3A-1%3A5538%3A%3AAcVicgrrKHgMPWOaP8ARxr7tuLsrMZdbAfy7ENven-Y"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676226859.784332,
+			"expirationDate": 1676403677.773364,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -151,7 +151,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0L2unBSysNIfqRFL7.AWUqpZhwhI0ZWNv9ByX6HFK3yuU.Bjcoot.kU.AAA.0.0.Bjcoot.AWVORKFoPMM"
+			"value": "0SDWNKnGMRJB45kWW.AWUgBNEQO5jCR7tbqaUDr0zuONI.BjdTza.kU.AAA.0.0.BjdTze.AWWSxeJfzsU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -163,7 +163,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100086636524081%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100082911802621%22%7D%2C%7B%22i%22%3A%22u.100041432204826%22%7D%2C%7B%22i%22%3A%22u.100082116923383%22%7D%2C%7B%22i%22%3A%22u.100082006248473%22%7D%2C%7B%22i%22%3A%22u.100086213111489%22%7D%2C%7B%22i%22%3A%22u.100084967032911%22%7D%2C%7B%22i%22%3A%22u.100005188115548%22%7D%2C%7B%22i%22%3A%22u.281164141954256%22%7D%2C%7B%22i%22%3A%22u.100084572632461%22%7D%2C%7B%22i%22%3A%22u.100086225956132%22%7D%2C%7B%22i%22%3A%22u.100047131206394%22%7D%2C%7B%22i%22%3A%22u.100083759731596%22%7D%2C%7B%22i%22%3A%22u.100069329152983%22%7D%2C%7B%22i%22%3A%22u.100065031937327%22%7D%2C%7B%22i%22%3A%22u.100086222332930%22%7D%2C%7B%22i%22%3A%22u.100078975976488%22%7D%2C%7B%22i%22%3A%22u.100006806196986%22%7D%2C%7B%22i%22%3A%22u.100086312331206%22%7D%5D%2C%22utc3%22%3A1668450936962%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100083457481061%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100082911802621%22%7D%2C%7B%22i%22%3A%22u.100041432204826%22%7D%2C%7B%22i%22%3A%22u.100082116923383%22%7D%2C%7B%22i%22%3A%22u.100082006248473%22%7D%2C%7B%22i%22%3A%22u.100086213111489%22%7D%2C%7B%22i%22%3A%22u.100084967032911%22%7D%2C%7B%22i%22%3A%22u.100005188115548%22%7D%2C%7B%22i%22%3A%22u.281164141954256%22%7D%2C%7B%22i%22%3A%22u.100084572632461%22%7D%2C%7B%22i%22%3A%22u.100086225956132%22%7D%2C%7B%22i%22%3A%22u.100047131206394%22%7D%2C%7B%22i%22%3A%22u.100083759731596%22%7D%2C%7B%22i%22%3A%22u.100069329152983%22%7D%2C%7B%22i%22%3A%22u.100065031937327%22%7D%2C%7B%22i%22%3A%22u.100086222332930%22%7D%2C%7B%22i%22%3A%22u.100078975976488%22%7D%2C%7B%22i%22%3A%22u.100006806196986%22%7D%2C%7B%22i%22%3A%22u.100086312331206%22%7D%2C%7B%22i%22%3A%22u.100086636524081%22%7D%2C%7B%22i%22%3A%22u.100003287862597%22%7D%5D%2C%22utc3%22%3A1668627751252%2C%22v%22%3A1%7D"
 		}
 	]
 }
