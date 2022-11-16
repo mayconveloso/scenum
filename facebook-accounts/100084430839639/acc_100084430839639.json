@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "16.11.2022 19:45 Farm10-14_by_scenum",
+	"lastEventDate": "16.11.2022 19:46 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100084430839639",
 	"name": "",
-	"amountFriends": "246",
+	"amountFriends": "252",
 	"screenname": "Adriana Pires Marques",
 	"birthdate": "2000 January 9",
 	"country": "Paulo",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699985541.240223,
+			"expirationDate": 1700163155.742848,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,20 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668609275,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669055385,
+			"expirationDate": 1669232781,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668535093,
+			"expirationDate": 1668713314,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -116,7 +103,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699985541.240278,
+			"expirationDate": 1669228859,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700163155.742908,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A4921%3A%3AAcV2Ipw-_ebHcHz0lB7tCCUAL4yfmyesujO3TliWXD4"
+			"value": "20%3A3EQ-OMzxUu4dsg%3A2%3A1660132604%3A-1%3A4921%3A%3AAcVZZAwY7NcY5iSpOtJHaU_kghOU-tp3MsHRHeQfhDc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,11 +137,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsY243bWluZHg5ZiIsInRpbWUiOjE2Njg0NDk4NzN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsZ2dyZ2cwMm81diIsInRpbWUiOjE2Njg2MjcyMTN9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676226493.070364,
+			"expirationDate": 1676403918.188861,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0dmdEBAYEiKgLUbfr.AWVxqJS5l0kZYfANwBfXFy3PDqs.BjcoUG.wi.AAA.0.0.Bjcoi-.AWWB61IR4Mw"
+			"value": "0GUYZUiOZUucLziyy.AWXq4v6IerUCw9y4rSYQLC0BrL8.BjdTrU.wi.AAA.0.0.BjdT3P.AWVDXBJ3Y1I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668450580472%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668627982885%2C%22v%22%3A1%7D"
 		}
 	]
 }
