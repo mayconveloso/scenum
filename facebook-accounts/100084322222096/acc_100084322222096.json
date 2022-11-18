@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "18.11.2022 01:59 Farm10-14_by_scenum",
+	"lastEventDate": "18.11.2022 02:01 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100084322222096",
 	"name": "",
-	"amountFriends": "167",
+	"amountFriends": "175",
 	"screenname": "Paula Fersoza Silva",
 	"birthdate": "1997 October 28",
 	"country": "Brazil",
-	"isAvatarExists": true,
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699986008.048158,
+			"expirationDate": 1700272335.307715,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669055661,
+			"expirationDate": 1669341660,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668718978,
+			"expirationDate": 1669341132,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -103,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699986008.048217,
+			"expirationDate": 1700272335.308935,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "40%3A1vKn3kTUQX-eIg%3A2%3A1667267457%3A-1%3A5538%3A%3AAcUx7tK1B92SLcE6Ch1NxAapvRyMgou0Bkwu9R0Kc30"
+			"value": "40%3A1vKn3kTUQX-eIg%3A2%3A1667267457%3A-1%3A5538%3A%3AAcV9FwQEsKWSdTwVJk6FaZOebhvkSHFEZ6jvLCZjT5Y"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676226762.149969,
+			"expirationDate": 1676512766.758501,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0E9Dw4zX9FxfV9Eib.AWU_DgmfPPQ1xfMpP4ouLo7Eguo.BjcobZ.iX.AAA.0.0.BjconL.AWUfnJgARW4"
+			"value": "09brqz27YWcQ0epe8.AWU8Rxsbt-4KbYixD1tmGIlmQZA.BjduVQ.iX.AAA.0.0.Bjdub_.AWWk1Qu9WWw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100087188503467%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100023501221344%22%7D%2C%7B%22i%22%3A%22u.297099340377291%22%7D%2C%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.100052599668511%22%7D%2C%7B%22i%22%3A%22u.100064262062201%22%7D%2C%7B%22i%22%3A%22u.100082986098396%22%7D%2C%7B%22i%22%3A%22u.100079794413861%22%7D%5D%2C%22utc3%22%3A1668450855715%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100087188503467%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100023501221344%22%7D%2C%7B%22i%22%3A%22u.297099340377291%22%7D%2C%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.100052599668511%22%7D%2C%7B%22i%22%3A%22u.100064262062201%22%7D%2C%7B%22i%22%3A%22u.100082986098396%22%7D%2C%7B%22i%22%3A%22u.100079794413861%22%7D%5D%2C%22utc3%22%3A1668736857597%2C%22v%22%3A1%7D"
 		}
 	]
 }
