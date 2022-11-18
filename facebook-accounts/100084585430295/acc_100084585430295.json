@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "18.11.2022 19:58 Farm10-14_by_scenum",
+	"lastEventDate": "18.11.2022 20:00 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100084585430295",
 	"name": "",
-	"amountFriends": "185",
+	"amountFriends": "195",
 	"screenname": "Viviane Aparecida Guedes",
 	"birthdate": "1995 August 14",
 	"country": "Brazil",
-	"isAvatarExists": true,
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699985966.925956,
+			"expirationDate": 1700336359.578729,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -90,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668718930,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669055458,
+			"expirationDate": 1669406410,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,7 +103,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699985966.926021,
+			"expirationDate": 1669344371,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700336359.57885,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +125,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AvrRZTjODCFn5Kg%3A2%3A1667276245%3A-1%3A4865%3A%3AAcWSxj0VTOI8QjWf8_f3goL8aSpDel5NzK627bUtVIM"
+			"value": "30%3AvrRZTjODCFn5Kg%3A2%3A1667276245%3A-1%3A4891%3A%3AAcWfop9HopajJoAZ99n70CDUUD304_CHFuAzB0-V60M"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676226569.194749,
+			"expirationDate": 1676577516.304376,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0U2PvOzVGdrfq1eng.AWVMli84IhTHHMO8YchdgkPi3Bg.Bjcoaw.XR.AAA.0.0.BjcokK.AWVsLvPxTWg"
+			"value": "0K8IvObZLuFjMDU4o.AWXjQ4lAqKtUU7jU2hmiE1JjeTI.Bjd99o.XR.AAA.0.0.Bjd-Pt.AWWZbYVecUs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100086235231059%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.405583946133906%22%7D%2C%7B%22i%22%3A%22u.268637156547356%22%7D%2C%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.100051596599774%22%7D%2C%7B%22i%22%3A%22u.227025040701511%22%7D%2C%7B%22i%22%3A%22u.201093140306750%22%7D%2C%7B%22i%22%3A%22u.100079975587532%22%7D%2C%7B%22i%22%3A%22u.100078934246692%22%7D%2C%7B%22i%22%3A%22u.100026927431298%22%7D%2C%7B%22i%22%3A%22u.100072374333476%22%7D%2C%7B%22i%22%3A%22u.100082682193484%22%7D%2C%7B%22i%22%3A%22u.100087621333479%22%7D%2C%7B%22i%22%3A%22u.100084000006910%22%7D%2C%7B%22i%22%3A%22u.100080363102931%22%7D%2C%7B%22i%22%3A%22u.100071127567097%22%7D%2C%7B%22i%22%3A%22u.100078451789258%22%7D%5D%2C%22utc3%22%3A1668450653986%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100014872360387%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.328227867723913%22%7D%2C%7B%22i%22%3A%22u.405583946133906%22%7D%2C%7B%22i%22%3A%22u.268637156547356%22%7D%2C%7B%22i%22%3A%22u.160394814017666%22%7D%2C%7B%22i%22%3A%22u.100051596599774%22%7D%2C%7B%22i%22%3A%22u.227025040701511%22%7D%2C%7B%22i%22%3A%22u.201093140306750%22%7D%2C%7B%22i%22%3A%22u.100079975587532%22%7D%2C%7B%22i%22%3A%22u.100078934246692%22%7D%2C%7B%22i%22%3A%22u.100026927431298%22%7D%2C%7B%22i%22%3A%22u.100072374333476%22%7D%2C%7B%22i%22%3A%22u.100082682193484%22%7D%2C%7B%22i%22%3A%22u.100087621333479%22%7D%2C%7B%22i%22%3A%22u.100084000006910%22%7D%2C%7B%22i%22%3A%22u.100080363102931%22%7D%2C%7B%22i%22%3A%22u.100071127567097%22%7D%2C%7B%22i%22%3A%22u.100078451789258%22%7D%2C%7B%22i%22%3A%22u.100086235231059%22%7D%5D%2C%22utc3%22%3A1668801607902%2C%22v%22%3A1%7D"
 		}
 	]
 }
