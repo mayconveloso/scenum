@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "18.11.2022 02:01 Farm10-14_by_scenum",
+	"lastEventDate": "18.11.2022 02:03 Farm10-14_by_scenum",
 	"status": 2,
 	"id": "100084525574084",
 	"name": "",
-	"amountFriends": "349",
+	"amountFriends": "354",
 	"screenname": "Giovana Oliveira Freitas",
 	"birthdate": "2000 August 9",
 	"country": "Buritama",
-	"isAvatarExists": true,
+	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699985954.675413,
+			"expirationDate": 1700272282.083046,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669055672,
+			"expirationDate": 1669341811,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,19 +87,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1320x769"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1668718924,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2"
 		},
 		{
 			"domain": ".facebook.com",
@@ -116,7 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699985954.675816,
+			"expirationDate": 1700272282.083096,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -125,11 +112,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A5567%3A%3AAcU3mV1bzbFVcOQ9tmMOPoagtzdJTDdEWg9Ku7TQHAs"
+			"value": "32%3AtGiVnsl4HQzxpg%3A2%3A1660240067%3A-1%3A5567%3A%3AAcXVDhggpZkLvNWakhC9sA1U-ehP8ZglViY7PVNvqYk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676226792.532986,
+			"expirationDate": 1669341084,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676512919.438682,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0auVu7akQPci6NkMP.AWU6JA98BtXhoZQb1cRZ7gUPl1w.Bjcoaj.d2.AAA.0.0.Bjconp.AWU9MA9Hyrg"
+			"value": "0gXhhyK5Y7Rw4uuJO.AWVoB2falCvtBBA0ozuZBI23YD8.BjduUb.d2.AAA.0.0.BjdueY.AWVEMgRhEMs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100063646788659%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100075472104850%22%7D%2C%7B%22i%22%3A%22u.108983790849257%22%7D%2C%7B%22i%22%3A%22u.100008912115451%22%7D%2C%7B%22i%22%3A%22u.100082460982490%22%7D%2C%7B%22i%22%3A%22u.100041288470812%22%7D%2C%7B%22i%22%3A%22u.100082538061561%22%7D%2C%7B%22i%22%3A%22u.507308936003191%22%7D%2C%7B%22i%22%3A%22u.100076404783196%22%7D%2C%7B%22i%22%3A%22u.100085175830869%22%7D%5D%2C%22utc3%22%3A1668450875662%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100075472104850%22%7D%2C%7B%22i%22%3A%22u.108983790849257%22%7D%2C%7B%22i%22%3A%22u.100008912115451%22%7D%2C%7B%22i%22%3A%22u.100082460982490%22%7D%2C%7B%22i%22%3A%22u.100041288470812%22%7D%2C%7B%22i%22%3A%22u.100082538061561%22%7D%2C%7B%22i%22%3A%22u.507308936003191%22%7D%2C%7B%22i%22%3A%22u.100076404783196%22%7D%2C%7B%22i%22%3A%22u.100085175830869%22%7D%2C%7B%22i%22%3A%22u.133779020053148%22%7D%2C%7B%22i%22%3A%22u.100063646788659%22%7D%5D%2C%22utc3%22%3A1668737009209%2C%22v%22%3A1%7D"
 		}
 	]
 }
