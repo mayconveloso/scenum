@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100087444240388",
 	"name": "",
-	"amountFriends": "139",
+	"amountFriends": "153",
 	"screenname": "Carina Santiago",
 	"birthdate": "1993 April 18",
 	"country": "Brazil",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669406246,
+			"expirationDate": 1669759956,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700336424.563871,
+			"expirationDate": 1700690217.511529,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700336424.564029,
+			"expirationDate": 1700690217.511825,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,36 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3AQTX-QIe5pop9Kg%3A2%3A1666747653%3A-1%3A5538%3A%3AAcWWmzz8ZhmjCFo65EYuDQBbVlGfPTg0yWrgT8vMIh0"
+			"value": "36%3AQTX-QIe5pop9Kg%3A2%3A1666747653%3A-1%3A5538%3A%3AAcWtKjqySVm_XJGxF9tMmsUU-v9hZUkzqyJZrRW6hcc"
+		},
+		{
+			"domain": "www.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbUdhbi7KyRBhMEFojg-8jtwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbaluq3DBYAABV-HEwAABYAFuCW6rcMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbiluq3DBYAABWAARxMAAAWABbiluq3DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAuyW6rcMJAAgFuyW6rcMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBlsFQQVDCbiluq3DBYAABUEFTom4pbqtwwWAAAVBBU8JuKW6rcMFgAAFQQVUibiluq3DBYAABUEFWAm4pbqtwwWAAAVBBVuJuKW6rcMFgAAFhIRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221669154223%22%7D%2C%22d%22%3A%22dad72db8-684d-43c9-ad74-03a3880a5c08%22%2C%22s%22%3A%221%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676577344.989581,
+			"expirationDate": 1676930479.020119,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100087444240388"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676931071.996008,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SeYeuf5EhlH7ELzG.AWUKKyYuridNMh4os8k2Snq3bQw.Bjd9-p.T9.AAA.0.0.Bjd-NB.AWUKbj2dkik"
+			"value": "06WokXha387CYkFgm.AWWtUf4xusfkXJHfryC3m9uB-NI.BjfUWq.T9.AAA.0.0.BjfUkB.AWWkOl7eSmg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,8 +150,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100080781124576%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.109747285223210%22%7D%2C%7B%22i%22%3A%22u.662617580454321%22%7D%2C%7B%22i%22%3A%22u.297099340377291%22%7D%2C%7B%22i%22%3A%22u.250970455039152%22%7D%2C%7B%22i%22%3A%22u.100087270756237%22%7D%2C%7B%22i%22%3A%22u.100087165937590%22%7D%2C%7B%22i%22%3A%22u.301274630444669%22%7D%2C%7B%22i%22%3A%22u.100085706034020%22%7D%2C%7B%22i%22%3A%22u.100086259385434%22%7D%2C%7B%22i%22%3A%22u.100087513034472%22%7D%2C%7B%22i%22%3A%22u.100070029171334%22%7D%2C%7B%22i%22%3A%22u.100050412032979%22%7D%2C%7B%22i%22%3A%22u.100087096488697%22%7D%2C%7B%22i%22%3A%22u.100008768141555%22%7D%2C%7B%22i%22%3A%22u.100076947955833%22%7D%2C%7B%22i%22%3A%22u.100060556934613%22%7D%2C%7B%22i%22%3A%22u.100007427018450%22%7D%5D%2C%22utc3%22%3A1668801439586%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100049638300954%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.662617580454321%22%7D%2C%7B%22i%22%3A%22u.109747285223210%22%7D%2C%7B%22i%22%3A%22u.297099340377291%22%7D%2C%7B%22i%22%3A%22u.250970455039152%22%7D%2C%7B%22i%22%3A%22u.100087270756237%22%7D%2C%7B%22i%22%3A%22u.100087165937590%22%7D%2C%7B%22i%22%3A%22u.301274630444669%22%7D%2C%7B%22i%22%3A%22u.100085706034020%22%7D%2C%7B%22i%22%3A%22u.100086259385434%22%7D%2C%7B%22i%22%3A%22u.100087513034472%22%7D%2C%7B%22i%22%3A%22u.100070029171334%22%7D%2C%7B%22i%22%3A%22u.100050412032979%22%7D%2C%7B%22i%22%3A%22u.100087096488697%22%7D%2C%7B%22i%22%3A%22u.100008768141555%22%7D%2C%7B%22i%22%3A%22u.100076947955833%22%7D%2C%7B%22i%22%3A%22u.100060556934613%22%7D%2C%7B%22i%22%3A%22u.100007427018450%22%7D%2C%7B%22i%22%3A%22u.100040715166955%22%7D%2C%7B%22i%22%3A%22u.100080781124576%22%7D%5D%2C%22utc3%22%3A1669155161375%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.11.2022 22:11 Farm10-14_by_scenum"
+	"lastEventDate": "22.11.2022 22:12 Farm10-14_by_scenum"
 }
