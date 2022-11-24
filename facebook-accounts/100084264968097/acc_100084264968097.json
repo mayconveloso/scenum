@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100084264968097",
 	"name": "",
-	"amountFriends": "200",
+	"amountFriends": "214",
 	"screenname": "Melissa Mendes Araujo",
 	"birthdate": "2000 July 29",
 	"country": "Brazil",
@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669759845,
+			"expirationDate": 1669936714,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -46,19 +46,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1320x769"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669234777,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2"
 		},
 		{
 			"domain": ".facebook.com",
@@ -75,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700690067.680342,
+			"expirationDate": 1700866833.522896,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -88,7 +75,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669240468,
+			"expirationDate": 1669839626,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700866833.522969,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "34%3AIVVlWnjQaE_uSw%3A2%3A1668737318%3A-1%3A3183%3A%3AAcV3siISOCzMolDLk2ZjFcZ2IzxSWM5jb9k4iM2Wvv4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1669417359,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -101,20 +114,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700690067.680389,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
+			"httpOnly": false,
+			"name": "usida",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "34%3AIVVlWnjQaE_uSw%3A2%3A1668737318%3A-1%3A3183%3A%3AAcVc2rdNhqn8bLzjiXIs5ClXOwE8TtVndB2gCS3zIcw"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJsdmp0NWFlcWFpNyIsInRpbWUiOjE2NjkzMzE4Mjh9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676930915.123908,
+			"expirationDate": 1677107828.820593,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -123,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IO71V1iv3U9sNla1.AWWngmy9F-drwKR1G-x0KB4c0_s.BjfRTT.NQ.AAA.0.0.BjfUhk.AWWvZxNW8yk"
+			"value": "0ihwFmHQcxq5Ehh4R.AWWj8C8V8JgGj-bpGlN4tu-6-nE.Bjf_eS.NQ.AAA.0.0.Bjf_t1.AWXfUOSJfk8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,21 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669155042426%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJscnJpcjEzZmg5aDYiLCJ0aW1lIjoxNjY5MTU1MDQ1fQ%3D%3D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669331920498%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.11.2022 23:17 Farm10-14_by_scenum",
+	"lastEventDate": "24.11.2022 23:18 Farm10-14_by_scenum",
 	"status": 2
 }
